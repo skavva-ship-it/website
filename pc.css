@@ -1,0 +1,62 @@
+body{
+  background-image: url('https://img.freepik.com/premium-vector/modern-vibrant-bright-orange-pink-colorful-background_467446-83.jpg?w=2000');
+}
+
+h1{
+  color: white;
+}
+
+ul{
+  text-align:start;
+  color: white;
+  
+  text-indent:20px;
+}
+
+
+.center {
+  width: 50;
+  margin-left: auto;
+  margin-right: auto;
+  align-self: center;
+}
+
+p{
+  color: skyblue;
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+.bt1{
+align-content: center;
+} 
+#sd{
+  font-size: 15px;
+  
+}
+.sd{
+  text-align: center;
+  font-size: 25px;
+  font-family:'Times New Roman', Times, serif;
+  color: red;
+}
+.se{
+  text-align: center;
+  font-size: 25px;
+  font-family:'Times New Roman', Times, serif;
+  color: springgreen;
+}
+.lg{
+  text-align: center;
+  font-size: 35px;
+  font-family:'Times New Roman', Times, serif;
+  color: yellow;
+}
+.vd{
+padding-left: 12%;
+}
+
+.pd{
+  font-size: 20px;
+  font-family:'Times New Roman', Times, serif;
+}
